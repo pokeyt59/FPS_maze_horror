@@ -243,6 +243,10 @@
 		{
 			"Name": "LiveLinkMasterLockit",
 			"Enabled": true
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
